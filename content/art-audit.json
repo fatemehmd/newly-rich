@@ -1,0 +1,488 @@
+{
+  "purpose": "Preserve complete original illustration content without regenerated artwork",
+  "cards": [
+    {
+      "id": "00-cover",
+      "original": "00 - A Field Guide for the Newly Rich.png",
+      "original_sha256": "1ff74a059b59bdd6cad368c9943824e0af3dc2ed96df0ce0705330c13cccc5bb",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 5,
+          "crop": [
+            720,
+            605,
+            230,
+            170
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    },
+    {
+      "id": "00-dedication",
+      "original": "00 - Dedication  - Gratitude and Shared Stories.png",
+      "original_sha256": "1c81c201f9268ed669cabc2545a25c3e48c565186da8cf8d573092ef33596541",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 1,
+          "crop": [
+            690,
+            530,
+            320,
+            230
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    },
+    {
+      "id": "01-abundance",
+      "original": "01 - Abundance as a Mindset Poster.png",
+      "original_sha256": "24bcf557119f226262b67e9f6e7edc52fa0ff90940d85947f8b1aeda6f915c99",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 1,
+          "crop": [
+            932,
+            244,
+            690,
+            414
+          ],
+          "clip": "M932 244 H1622 V658 H1012 V578 H932 Z",
+          "changed": true,
+          "previous_crop": [
+            942,
+            249,
+            680,
+            402
+          ]
+        }
+      ],
+      "note": "Added clear space around fingertips, hand and tassel; retained a polygon that excludes only the original adjacent quote frame."
+    },
+    {
+      "id": "02-inner-work",
+      "original": "02 - Do the Inner Work_ Vintage Lotus Poster.png",
+      "original_sha256": "e8d5e68ae7c2c7199dae0bb01aff1a3ce017f09c91177a5e549c432dba360e72",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 0,
+          "crop": [
+            65,
+            278,
+            450,
+            510
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    },
+    {
+      "id": "03-meaning",
+      "original": "03 - Meaningful Discoveries Guide.png",
+      "original_sha256": "515fd84f20b340bf4996811b090d505b7b34319d81ccf06e7a7aea908b0c3881",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 5,
+          "crop": [
+            1195,
+            680,
+            285,
+            155
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    },
+    {
+      "id": "04-invitations",
+      "original": "04 - Writing Your Own Invitations.png",
+      "original_sha256": "520ed4408ab99967da7626ce713201782020a2ca6da8b00782789f826e6429b5",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 2,
+          "crop": [
+            1230,
+            210,
+            365,
+            260
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        },
+        {
+          "element": 6,
+          "crop": [
+            244,
+            700,
+            280,
+            135
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            250,
+            705,
+            265,
+            122
+          ]
+        }
+      ],
+      "note": "Key is complete. Added padding around the pangolin tail, feet, nose and ground shadow."
+    },
+    {
+      "id": "05-time",
+      "original": "05 - Reclaim Your Time with Help.png",
+      "original_sha256": "7363a6476163c99ec1cf084e1306a152a53666c88049524cb022450139447b91",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 10,
+          "crop": [
+            270,
+            690,
+            134,
+            165
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            273,
+            692,
+            127,
+            156
+          ]
+        }
+      ],
+      "note": "Added padding below the complete hourglass base and shadow."
+    },
+    {
+      "id": "06-policies",
+      "original": "06 - Elegant Personal Policies Infographic.png",
+      "original_sha256": "56c9e99478cccbd192baa97be0db290ede43e14b3102a92141b4bad34137dafa",
+      "status": "checked",
+      "illustrations": [],
+      "note": "This card has no separate subject illustration; text and editorial frames remain unchanged."
+    },
+    {
+      "id": "07-experiments",
+      "original": "07 - A Few Experiments — Nothing to Prove.png",
+      "original_sha256": "54fb2bd8b72c4e64aabcb3efb068311a1d426fc6d5cb436b3b670d2c0068b82c",
+      "status": "checked",
+      "illustrations": [],
+      "note": "This card has no separate subject illustration; text and editorial frames remain unchanged."
+    },
+    {
+      "id": "08-not-done",
+      "original": "08 - Vintage Parchment_ Skills Beyond Money.png",
+      "original_sha256": "c8849fd81dd92b3677e86342a6373f4940e120fd9f48feda6375db633a771a9c",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 7,
+          "crop": [
+            1380,
+            200,
+            210,
+            600
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            1380,
+            330,
+            205,
+            470
+          ]
+        }
+      ],
+      "note": "Restored the complete star, compass rays and upper part of the wand, previously cropped at source y=330."
+    },
+    {
+      "id": "09-leverage",
+      "original": "09 - Expanded Levels of Leverage.png",
+      "original_sha256": "8ac343e6bca096d5db7ee1de2686fb0ea13de73e7cc857840c06cd1b56fb805c",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 7,
+          "crop": [
+            225,
+            475,
+            245,
+            230
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            230,
+            480,
+            230,
+            220
+          ]
+        },
+        {
+          "element": 12,
+          "crop": [
+            630,
+            515,
+            415,
+            190
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            635,
+            515,
+            405,
+            180
+          ]
+        },
+        {
+          "element": 17,
+          "crop": [
+            1145,
+            495,
+            400,
+            210
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            1150,
+            510,
+            390,
+            185
+          ]
+        }
+      ],
+      "note": "Added padding around easel feet and shadow, the complete gallery crowd, and the highest gallery roof and ivy."
+    },
+    {
+      "id": "10-catalyst",
+      "original": "10 - Vintage Lantern Editorial Card.png",
+      "original_sha256": "1237f89c20a9b0e73e75b2042937d88deb10b8fb28184af31141e33ba6421c63",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 3,
+          "crop": [
+            1218,
+            298,
+            390,
+            350
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            1265,
+            300,
+            320,
+            410
+          ]
+        }
+      ],
+      "note": "Expanded to include the complete longest lantern rays on both sides."
+    },
+    {
+      "id": "11-outside-tech",
+      "original": "11 - Vintage Editorial World Beyond Tech.png",
+      "original_sha256": "7776857128592169740994f7a1ddd808feb743312c05021d7596612f257c903c",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 2,
+          "crop": [
+            1290,
+            220,
+            285,
+            290
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    },
+    {
+      "id": "12-generous-mischief",
+      "original": "12 - Generous Mischief_ Playful Acts of Kindness.png",
+      "original_sha256": "544302d21d2fe2525d65bcb32d9006492362496bd3eab7bc176062c47bbdb069",
+      "status": "checked",
+      "illustrations": [],
+      "note": "This card has no separate subject illustration; text and editorial frames remain unchanged."
+    },
+    {
+      "id": "13-spend-it",
+      "original": "13 - Spend or Create Something Good.png",
+      "original_sha256": "454aed964c20a8a81e79d864ea44e43ada5f674749945d3127fccaa54421e16a",
+      "status": "checked",
+      "illustrations": [],
+      "note": "This card has no separate subject illustration; text and editorial frames remain unchanged."
+    },
+    {
+      "id": "14-unwritten-rules",
+      "original": "14-The Unwritten Rules of Wealth.png",
+      "original_sha256": "f5240e13a49d91c50c0e66290e9075b8d10ccb6fb78877ce0b5345d3a1c975f6",
+      "status": "checked",
+      "illustrations": [],
+      "note": "This card has no separate subject illustration; text and editorial frames remain unchanged."
+    },
+    {
+      "id": "15-money",
+      "original": "15 - Vintage Parchment Money Guide.png",
+      "original_sha256": "9edadbdad020bf60dd0374779c779c050d15f857a633d1ebe85411d58bf8734b",
+      "status": "checked",
+      "illustrations": [],
+      "note": "This card has no separate subject illustration; text and editorial frames remain unchanged."
+    },
+    {
+      "id": "16-dreams",
+      "original": "16 Extraordinary Dreams in Engraving.png",
+      "original_sha256": "13766c53afe8683d21b1c0f1a4a4f4a2593d5123ae8b1d391a03cb9fde705e5e",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 1,
+          "crop": [
+            45,
+            195,
+            510,
+            238
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            55,
+            200,
+            490,
+            230
+          ]
+        },
+        {
+          "element": 2,
+          "crop": [
+            595,
+            190,
+            480,
+            240
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            605,
+            195,
+            460,
+            230
+          ]
+        },
+        {
+          "element": 3,
+          "crop": [
+            1117,
+            200,
+            511,
+            235
+          ],
+          "clip": null,
+          "changed": true,
+          "previous_crop": [
+            1130,
+            210,
+            490,
+            220
+          ]
+        }
+      ],
+      "note": "Padded all three engravings so the mountain foreground, festival audience and full bridge scene remain inside the crop."
+    },
+    {
+      "id": "17-influence",
+      "original": "17 Orbits of Influence Field Guide.png",
+      "original_sha256": "cb4cc613b038b258d42840647eb3dbd5f9ea157d815a87ab90f43455b3c175e6",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 3,
+          "crop": [
+            837,
+            65,
+            718,
+            715
+          ],
+          "clip": "M885 125 H1176 V65 H1210 V125 H1555 V780 H885 V462 H837 V398 H885 Z",
+          "changed": true,
+          "previous_crop": [
+            845,
+            123,
+            705,
+            650
+          ]
+        }
+      ],
+      "note": "Restored the top compass star and axis with a narrow upper extension; kept all rings, labels, planets, side stars and bottom star while excluding original body text and title rules."
+    },
+    {
+      "id": "18-privilege",
+      "original": "18-Vintage Parchment Privilege Quote.png",
+      "original_sha256": "9e4420c0373741f7bb51bcfbd46178422d023807b5716648268aa5a7ce48d01a",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 4,
+          "crop": [
+            706,
+            580,
+            250,
+            130
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    },
+    {
+      "id": "19-beyond",
+      "original": "19-Beyond These Pages Guide.png",
+      "original_sha256": "9f2418158ca77b15bc181ab1114974f86ced5508945fde3c9bcbfec4ac59c15d",
+      "status": "checked",
+      "illustrations": [
+        {
+          "element": 0,
+          "crop": [
+            1310,
+            30,
+            315,
+            145
+          ],
+          "clip": null,
+          "changed": false,
+          "previous_crop": null
+        }
+      ],
+      "note": "Original artwork is complete inside the existing source cutout."
+    }
+  ]
+}

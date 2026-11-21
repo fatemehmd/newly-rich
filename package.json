@@ -1,0 +1,21 @@
+{
+  "name": "newly-rich",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:cards": "python3 tools/build_cards.py",
+    "build": "python3 tools/build_site.py",
+    "dev": "wrangler dev --ip 127.0.0.1 --port 8787",
+    "deploy": "npm run build && wrangler deploy",
+    "db:local": "wrangler d1 execute FEEDBACK --local --file migrations/0001_feedback.sql",
+    "db:remote": "wrangler d1 execute FEEDBACK --remote --file migrations/0001_feedback.sql",
+    "feedback:pull": "node tools/feedback.mjs",
+    "test": "node --test tests/feedback.test.mjs",
+    "test:browser": "node tests/slideshow-browser.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.65.1",
+    "wrangler": "4.166.0"
+  }
+}

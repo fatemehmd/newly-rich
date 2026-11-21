@@ -5,3 +5,11 @@ dist/
 .env
 .env.*
 !.env.example
+tmp/
+.wrangler/
+.dev.vars
+.review/
+test-results/
+__pycache__/
+*.py[cod]
+.venv/

@@ -1,0 +1,7 @@
+Method: built-in image_gen tool, referenced-image edit; opaque background.
+Reference: assets/originals/01 - Abundance as a Mindset Poster.png
+Generated result: blank-card.png
+The generated result is reused unchanged for all cards. Text and rules are composed in SVG by tools/build_cards.py.
+
+Exact prompt:
+Use case: precise-object-edit. Asset type: reusable blank landscape card template for a consistent editorial slide deck. The attached image is the edit target and the exact style reference. Remove ALL interior content: the INWARD label, No. 03, title, paragraph, quotation text, quotation box, and hand with beads illustration. Replace these removed areas seamlessly with the existing fine warm pale cream parchment texture. Preserve the exact thin dark double outer border with softly curved corners, its placement, the image aspect ratio, the paper color and subtle fine fibers. The result must be a completely empty pale parchment card inside the existing border. Uniform restrained light parchment, no dark aging, stains, strong vignette, extra decorations, lettering, numbers, marks, illustrations, watermarks or new elements. Keep the original 16:9-like landscape proportions. This is one fixed master background to be reused unchanged for every slide; it must closely match image 1.

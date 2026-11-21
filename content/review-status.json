@@ -1,0 +1,10 @@
+{
+  "mode": "whole-deck-website-review",
+  "status": "all-cards-updated",
+  "title_baseline": 150,
+  "notes": [
+    "User approved Abundance title height and requested the same height on all remaining titled cards.",
+    "Every illustration audited against its original; see content/art-audit.json.",
+    "Design assistant will submit comments through the Cloudflare feedback page."
+  ]
+}

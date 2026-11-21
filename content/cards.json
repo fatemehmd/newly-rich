@@ -1,0 +1,1895 @@
+[
+  {
+    "id": "00-cover",
+    "source": "00 - A Field Guide for the Newly Rich.png",
+    "title": null,
+    "number": null,
+    "elements": [
+      {
+        "text": "A FIELD GUIDE FOR THE",
+        "x": 250,
+        "y": 305,
+        "w": 1170,
+        "size": 40,
+        "align": "center",
+        "tracking": 4
+      },
+      {
+        "text": "[red]NEWLY RICH[/red]",
+        "x": 250,
+        "y": 385,
+        "w": 1170,
+        "size": 62,
+        "align": "center",
+        "tracking": 6
+      },
+      {
+        "kind": "rule",
+        "x1": 610,
+        "y1": 430,
+        "x2": 1060,
+        "y2": 430
+      },
+      {
+        "text": "A practical and personal guide to",
+        "x": 250,
+        "y": 505,
+        "w": 1170,
+        "size": 40,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "money, freedom, and a more expansive life.",
+        "x": 200,
+        "y": 558,
+        "w": 1270,
+        "size": 40,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "kind": "art",
+        "crop": [
+          720,
+          605,
+          230,
+          170
+        ],
+        "x": 735,
+        "y": 625,
+        "w": 200,
+        "h": 150
+      },
+      {
+        "kind": "rule",
+        "x1": 540,
+        "y1": 697,
+        "x2": 670,
+        "y2": 697
+      },
+      {
+        "kind": "rule",
+        "x1": 1000,
+        "y1": 697,
+        "x2": 1130,
+        "y2": 697
+      }
+    ]
+  },
+  {
+    "id": "00-dedication",
+    "source": "00 - Dedication  - Gratitude and Shared Stories.png",
+    "title": null,
+    "number": null,
+    "elements": [
+      {
+        "text": "With gratitude to everyone who has taken the time to speak with me, share their experiences, and be so open about money, life, and what matters most.",
+        "x": 390,
+        "y": 340,
+        "w": 890,
+        "size": 44,
+        "italic": true,
+        "align": "center",
+        "leading": 59
+      },
+      {
+        "kind": "art",
+        "crop": [
+          690,
+          530,
+          320,
+          230
+        ],
+        "x": 710,
+        "y": 630,
+        "w": 250,
+        "h": 160
+      }
+    ]
+  },
+  {
+    "id": "01-abundance",
+    "source": "01 - Abundance as a Mindset Poster.png",
+    "title": "Abundance as a Mindset",
+    "number": "03",
+    "elements": [
+      {
+        "text": "Abundance is not about how much wealth you have; it’s about how much of it you’re [red][i]willing to spend or utilize.[/i][/red] You can have less and still have an abundant mindset without the constant worry of spending.",
+        "x": 115,
+        "y": 315,
+        "w": 820,
+        "size": 43,
+        "leading": 50
+      },
+      {
+        "kind": "art",
+        "crop": [
+          932,
+          244,
+          690,
+          414
+        ],
+        "x": 965,
+        "y": 265,
+        "w": 625,
+        "h": 410,
+        "clip": "M932 244 H1622 V658 H1012 V578 H932 Z"
+      },
+      {
+        "kind": "box",
+        "x": 110,
+        "y": 625,
+        "w": 935,
+        "h": 195
+      },
+      {
+        "text": "An artist friend once told me he spent a quarter of his net worth on beads. He wasn’t concerned. He was just following his passions and willing to take a risk for his work. The value wasn’t lost; it just changed.",
+        "x": 150,
+        "y": 670,
+        "w": 855,
+        "size": 34,
+        "italic": true,
+        "leading": 40
+      }
+    ]
+  },
+  {
+    "id": "02-inner-work",
+    "source": "02 - Do the Inner Work_ Vintage Lotus Poster.png",
+    "title": "Do the Inner Work",
+    "number": "04",
+    "elements": [
+      {
+        "kind": "art",
+        "crop": [
+          65,
+          278,
+          450,
+          510
+        ],
+        "x": 105,
+        "y": 320,
+        "w": 385,
+        "h": 435
+      },
+      {
+        "text": "A friend asked what I would do differently knowing what I know now. I would do the inner work earlier. The earlier you invest in knowing yourself and being happy with your inner state, the longer you get to benefit from it. It changes how you experience your own life and the people around you. [red][i]Don’t be afraid to take time to pause and rest.[/i][/red]",
+        "x": 550,
+        "y": 300,
+        "w": 1000,
+        "size": 36,
+        "leading": 43
+      },
+      {
+        "kind": "box",
+        "x": 535,
+        "y": 635,
+        "w": 1020,
+        "h": 195
+      },
+      {
+        "text": "Go on retreats for meditation or emotional work. Journal, craft, sing. Stay at Esalen for a week. Find waterfalls and penguins and go into the wild. Follow your dreams—especially the little ones you had as a kid.",
+        "x": 570,
+        "y": 680,
+        "w": 950,
+        "size": 30,
+        "italic": true,
+        "leading": 36
+      },
+      {
+        "text": "FEEL FREE TO ASK ME FOR RECS.",
+        "x": 570,
+        "y": 801,
+        "w": 950,
+        "size": 23,
+        "tracking": 1.5
+      }
+    ]
+  },
+  {
+    "id": "03-meaning",
+    "source": "03 - Meaningful Discoveries Guide.png",
+    "title": "Find What’s Meaningful to You",
+    "number": "03",
+    "elements": [
+      {
+        "text": "After years of working toward a major goal, like an IPO or exit, you may find yourself facing an unexpected void. It’s worth discovering what truly matters to you. It might be the same work, work in a different form, or something else altogether.",
+        "x": 110,
+        "y": 305,
+        "w": 1420,
+        "size": 40,
+        "leading": 47
+      },
+      {
+        "kind": "rule",
+        "x1": 112,
+        "y1": 490,
+        "x2": 112,
+        "y2": 660
+      },
+      {
+        "text": "[red][b]Listen more deeply.[/b][/red] Pay attention to what moves you, interests you, excites you, or makes you want to change something.",
+        "x": 150,
+        "y": 527,
+        "w": 1350,
+        "size": 38,
+        "italic": true,
+        "leading": 45
+      },
+      {
+        "text": "Follow your curiosity. There’s much richness already in the world.",
+        "x": 150,
+        "y": 640,
+        "w": 1350,
+        "size": 38,
+        "italic": true
+      },
+      {
+        "text": "What have you encountered recently that made you stop, feel something, or want to know more?",
+        "x": 110,
+        "y": 765,
+        "w": 1130,
+        "size": 38,
+        "italic": true,
+        "leading": 46
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1195,
+          680,
+          285,
+          155
+        ],
+        "x": 1310,
+        "y": 735,
+        "w": 245,
+        "h": 118
+      }
+    ]
+  },
+  {
+    "id": "04-invitations",
+    "source": "04 - Writing Your Own Invitations.png",
+    "title": "You Can Write Your Own Invitations",
+    "number": "04",
+    "elements": [
+      {
+        "text": "A friend starting a sabbatical told me she had almost gone to a conservatory for dance instead of tech.",
+        "x": 110,
+        "y": 305,
+        "w": 1090,
+        "size": 39,
+        "leading": 46
+      },
+      {
+        "text": "I told her she can just write to the ballet and say, [i]“Hi, I’m a potential donor. I’d love to meet you and learn about your programs and goals.”[/i]",
+        "x": 110,
+        "y": 425,
+        "w": 1090,
+        "size": 39,
+        "leading": 46
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1230,
+          210,
+          365,
+          260
+        ],
+        "x": 1250,
+        "y": 300,
+        "w": 300,
+        "h": 250
+      },
+      {
+        "text": "[red]You have more permission and agency than you think.[/red]",
+        "x": 110,
+        "y": 594,
+        "w": 1410,
+        "size": 40,
+        "italic": true
+      },
+      {
+        "text": "Many things that feel like closed doors or inaccessible worlds can be freely knocked upon.",
+        "x": 110,
+        "y": 650,
+        "w": 1380,
+        "size": 38,
+        "leading": 45
+      },
+      {
+        "kind": "box",
+        "x": 110,
+        "y": 735,
+        "w": 1445,
+        "h": 130
+      },
+      {
+        "kind": "art",
+        "crop": [
+          244,
+          700,
+          280,
+          135
+        ],
+        "x": 145,
+        "y": 755,
+        "w": 230,
+        "h": 100
+      },
+      {
+        "kind": "rule",
+        "x1": 410,
+        "y1": 755,
+        "x2": 410,
+        "y2": 845
+      },
+      {
+        "text": "For instance, I love pangolins. I was watching a pangolin video on social media and realized I could just slide into the creator’s DMs and ask how I could significantly help this endangered species thrive.",
+        "x": 445,
+        "y": 772,
+        "w": 1070,
+        "size": 29,
+        "italic": true,
+        "leading": 34,
+        "bottom": 870
+      }
+    ]
+  },
+  {
+    "id": "05-time",
+    "source": "05 - Reclaim Your Time with Help.png",
+    "title": "Free Up Your Time",
+    "number": "05",
+    "elements": [
+      {
+        "text": "[red]You have the means to live a relatively friction-free and happy life.[/red]",
+        "x": 110,
+        "y": 305,
+        "w": 660,
+        "size": 36,
+        "italic": true,
+        "leading": 43
+      },
+      {
+        "text": "Remove mundane obligations so you can pursue the projects that actually matter.",
+        "x": 110,
+        "y": 420,
+        "w": 660,
+        "size": 36,
+        "leading": 43
+      },
+      {
+        "text": "[i][b]Experiment with hiring help.[/b][/i] Some people hire full-time assistants, but you can also start small with a part-time assistant, virtual assistant, or services like TaskRabbit.",
+        "x": 110,
+        "y": 535,
+        "w": 660,
+        "size": 36,
+        "leading": 43
+      },
+      {
+        "kind": "rule",
+        "x1": 830,
+        "y1": 275,
+        "x2": 830,
+        "y2": 685
+      },
+      {
+        "text": "[b]Reclaim your time to do things only you can do or experience:[/b]",
+        "x": 890,
+        "y": 305,
+        "w": 660,
+        "size": 36,
+        "leading": 43
+      },
+      {
+        "text": "•  Your own exercise and physical health",
+        "x": 900,
+        "y": 432,
+        "w": 650,
+        "size": 32
+      },
+      {
+        "text": "•  Your mental state and inner work",
+        "x": 900,
+        "y": 486,
+        "w": 650,
+        "size": 32
+      },
+      {
+        "text": "•  Building and stewarding relationships with family and friends",
+        "x": 900,
+        "y": 540,
+        "w": 650,
+        "size": 32,
+        "leading": 38
+      },
+      {
+        "text": "•  Learning skills you personally want to develop",
+        "x": 900,
+        "y": 630,
+        "w": 650,
+        "size": 32,
+        "leading": 38
+      },
+      {
+        "text": "•  Having meaningful experiences",
+        "x": 900,
+        "y": 705,
+        "w": 650,
+        "size": 32
+      },
+      {
+        "kind": "art",
+        "crop": [
+          270,
+          690,
+          134,
+          165
+        ],
+        "x": 110,
+        "y": 742,
+        "w": 115,
+        "h": 132
+      },
+      {
+        "kind": "box",
+        "x": 265,
+        "y": 752,
+        "w": 1290,
+        "h": 118
+      },
+      {
+        "text": "[red]One trick:[/red] Assign an hourly value to your own time. If a task costs less than that to outsource, and you don’t enjoy doing it yourself, hire someone.",
+        "x": 300,
+        "y": 795,
+        "w": 1210,
+        "size": 32,
+        "italic": true,
+        "leading": 38,
+        "bottom": 875
+      }
+    ]
+  },
+  {
+    "id": "06-policies",
+    "source": "06 - Elegant Personal Policies Infographic.png",
+    "title": "Establish Some Policies",
+    "number": "06",
+    "elements": [
+      {
+        "text": "[red][i][b]Create personal policies[/b][/i][/red] that reflect your values and remove recurring guilt, hesitation, or decision fatigue. Decide your values in advance, so you can make the decision once, not relitigate it every time.",
+        "x": 110,
+        "y": 285,
+        "w": 1450,
+        "size": 32,
+        "leading": 38
+      },
+      {
+        "text": "Some sample policies:",
+        "x": 110,
+        "y": 410,
+        "w": 1450,
+        "size": 40,
+        "italic": true
+      },
+      {
+        "kind": "rule",
+        "x1": 830,
+        "y1": 438,
+        "x2": 830,
+        "y2": 837
+      },
+      {
+        "text": "•  [red][i][b]The Giving Rule[/b][/i][/red] — Commit to give away a set percentage of your wealth, such as 15% annually.",
+        "x": 110,
+        "y": 470,
+        "w": 660,
+        "size": 29,
+        "leading": 35
+      },
+      {
+        "text": "•  [red][i][b]The Friends & Family Rule[/b][/i][/red] — If money is the only thing preventing someone you love from joining a trip or gathering, offer to cover their costs.",
+        "x": 110,
+        "y": 600,
+        "w": 660,
+        "size": 29,
+        "leading": 35
+      },
+      {
+        "text": "•  [red][i][b]The First Patron Rule[/b][/i][/red] — Every year, support at least one artist, creator, or project that hasn’t found its audience yet.",
+        "x": 110,
+        "y": 755,
+        "w": 660,
+        "size": 29,
+        "leading": 35
+      },
+      {
+        "text": "•  [red][i][b]The Curiosity Budget[/b][/i][/red] — Set aside an annual amount purely for exploring new interests: lessons, workshops, travel, equipment, or unusual experiences. No ROI required.",
+        "x": 890,
+        "y": 470,
+        "w": 665,
+        "size": 29,
+        "leading": 35
+      },
+      {
+        "text": "•  [red][i][b]The Convenience Rule[/b][/i][/red] — If paying extra meaningfully reduces stress or inconvenience, choose the easier option without repeatedly justifying it. For example, a friend has a policy where if a flight is under $5,000, she allows herself to just buy it.",
+        "x": 890,
+        "y": 625,
+        "w": 665,
+        "size": 29,
+        "leading": 35
+      },
+      {
+        "text": "•  [red][i][b]The Gathering Rule[/b][/i][/red] — Once a year, host a gathering that wouldn’t otherwise happen, cover the cost, and bring people together.",
+        "x": 890,
+        "y": 800,
+        "w": 665,
+        "size": 29,
+        "leading": 35,
+        "bottom": 890
+      }
+    ]
+  },
+  {
+    "id": "07-experiments",
+    "source": "07 - A Few Experiments — Nothing to Prove.png",
+    "title": "A Few Experiments",
+    "number": "07",
+    "elements": [
+      {
+        "kind": "check",
+        "x": 110,
+        "y": 304
+      },
+      {
+        "text": "Give yourself an invitation.",
+        "x": 165,
+        "y": 333,
+        "w": 680,
+        "size": 38
+      },
+      {
+        "text": "Reach out to someone or something you’ve always been curious about.",
+        "x": 165,
+        "y": 386,
+        "w": 660,
+        "size": 32,
+        "leading": 39
+      },
+      {
+        "kind": "check",
+        "x": 110,
+        "y": 475
+      },
+      {
+        "text": "Eliminate one recurring annoyance.",
+        "x": 165,
+        "y": 505,
+        "w": 680,
+        "size": 38
+      },
+      {
+        "text": "Hire someone, automate it, or simply stop doing it.",
+        "x": 165,
+        "y": 558,
+        "w": 660,
+        "size": 32,
+        "leading": 39
+      },
+      {
+        "kind": "check",
+        "x": 110,
+        "y": 646
+      },
+      {
+        "text": "Make one new rule.",
+        "x": 165,
+        "y": 677,
+        "w": 680,
+        "size": 38
+      },
+      {
+        "text": "Choose something you’ve been agonizing over and decide how you’ll handle it from now on.",
+        "x": 165,
+        "y": 730,
+        "w": 660,
+        "size": 32,
+        "leading": 39
+      },
+      {
+        "kind": "box",
+        "x": 930,
+        "y": 320,
+        "w": 625,
+        "h": 455
+      },
+      {
+        "text": "[red]You have nothing to prove.[/red]",
+        "x": 970,
+        "y": 410,
+        "w": 545,
+        "size": 38,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "Or perhaps you do, but you’re now in a unique position to decide for yourself what deserves your time, attention, and energy.",
+        "x": 975,
+        "y": 500,
+        "w": 535,
+        "size": 33,
+        "align": "center",
+        "leading": 41
+      },
+      {
+        "text": "What would you choose if you weren’t trying to impress anyone?",
+        "x": 980,
+        "y": 690,
+        "w": 525,
+        "size": 32,
+        "italic": true,
+        "align": "center",
+        "leading": 39
+      }
+    ]
+  },
+  {
+    "id": "08-not-done",
+    "source": "08 - Vintage Parchment_ Skills Beyond Money.png",
+    "title": "You’re Not Done",
+    "number": "08",
+    "elements": [
+      {
+        "text": "Money is only one out of the many resources still available to you: your network, reputation, your skills in execution, problem-solving, and leadership.",
+        "x": 110,
+        "y": 305,
+        "w": 635,
+        "size": 38,
+        "leading": 45
+      },
+      {
+        "text": "[red]What happens when you unleash exceptionally capable people who no longer have to devote their capabilities to earning money?[/red]",
+        "x": 110,
+        "y": 580,
+        "w": 635,
+        "size": 37,
+        "italic": true,
+        "leading": 43
+      },
+      {
+        "text": "Those people can do extraordinary things for the world.",
+        "x": 110,
+        "y": 795,
+        "w": 635,
+        "size": 36,
+        "leading": 43
+      },
+      {
+        "kind": "box",
+        "x": 840,
+        "y": 320,
+        "w": 520,
+        "h": 445
+      },
+      {
+        "text": "Where could your skills, relationships, and experience make a difference beyond your immediate circles?",
+        "x": 880,
+        "y": 390,
+        "w": 440,
+        "size": 35,
+        "leading": 42
+      },
+      {
+        "kind": "rule",
+        "x1": 900,
+        "y1": 555,
+        "x2": 1300,
+        "y2": 555
+      },
+      {
+        "text": "What could become possible if you no longer had to measure your own impact in dollars?",
+        "x": 880,
+        "y": 615,
+        "w": 440,
+        "size": 35,
+        "leading": 42
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1380,
+          200,
+          210,
+          600
+        ],
+        "x": 1405,
+        "y": 330,
+        "w": 150,
+        "h": 435
+      }
+    ]
+  },
+  {
+    "id": "09-leverage",
+    "source": "09 - Expanded Levels of Leverage.png",
+    "title": "Choose Your Level of Leverage",
+    "number": "09",
+    "elements": [
+      {
+        "text": "You may have more leverage than you realize. Your resources, skills, and relationships allow you to operate at different scales, from creating something yourself to building something that enables others.",
+        "x": 110,
+        "y": 300,
+        "w": 1450,
+        "size": 36,
+        "leading": 42
+      },
+      {
+        "kind": "box",
+        "x": 110,
+        "y": 420,
+        "w": 455,
+        "h": 367
+      },
+      {
+        "kind": "box",
+        "x": 607,
+        "y": 420,
+        "w": 455,
+        "h": 367
+      },
+      {
+        "kind": "box",
+        "x": 1104,
+        "y": 420,
+        "w": 455,
+        "h": 367
+      },
+      {
+        "text": "[red]01[/red]",
+        "x": 130,
+        "y": 463,
+        "w": 415,
+        "size": 28,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "Creator",
+        "x": 130,
+        "y": 515,
+        "w": 415,
+        "size": 43,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "You make the thing.",
+        "x": 135,
+        "y": 558,
+        "w": 405,
+        "size": 28,
+        "align": "center"
+      },
+      {
+        "kind": "art",
+        "crop": [
+          225,
+          475,
+          245,
+          230
+        ],
+        "x": 210,
+        "y": 590,
+        "w": 250,
+        "h": 145
+      },
+      {
+        "text": "MAKE AN ARTWORK",
+        "x": 130,
+        "y": 764,
+        "w": 415,
+        "size": 25,
+        "align": "center"
+      },
+      {
+        "text": "[red]02[/red]",
+        "x": 627,
+        "y": 463,
+        "w": 415,
+        "size": 28,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "Organizer",
+        "x": 627,
+        "y": 515,
+        "w": 415,
+        "size": 43,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "You bring people and work together.",
+        "x": 632,
+        "y": 558,
+        "w": 405,
+        "size": 28,
+        "align": "center"
+      },
+      {
+        "kind": "art",
+        "crop": [
+          630,
+          515,
+          415,
+          190
+        ],
+        "x": 645,
+        "y": 615,
+        "w": 380,
+        "h": 120
+      },
+      {
+        "text": "PUT ON AN EXHIBITION",
+        "x": 627,
+        "y": 764,
+        "w": 415,
+        "size": 25,
+        "align": "center"
+      },
+      {
+        "text": "[red]03[/red]",
+        "x": 1124,
+        "y": 463,
+        "w": 415,
+        "size": 28,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "Institution Builder",
+        "x": 1124,
+        "y": 515,
+        "w": 415,
+        "size": 43,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "You create the infrastructure that makes more things possible.",
+        "x": 1129,
+        "y": 558,
+        "w": 405,
+        "size": 28,
+        "align": "center",
+        "leading": 32
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1145,
+          495,
+          400,
+          210
+        ],
+        "x": 1140,
+        "y": 625,
+        "w": 380,
+        "h": 105
+      },
+      {
+        "text": "OPEN A GALLERY",
+        "x": 1124,
+        "y": 764,
+        "w": 415,
+        "size": 25,
+        "align": "center"
+      },
+      {
+        "text": "[red]Are you most interested in making something, bringing people together, or creating the conditions for others to thrive?[/red]",
+        "x": 110,
+        "y": 850,
+        "w": 1450,
+        "size": 29,
+        "italic": true,
+        "align": "center",
+        "bottom": 892
+      }
+    ]
+  },
+  {
+    "id": "10-catalyst",
+    "source": "10 - Vintage Lantern Editorial Card.png",
+    "title": "Be the Initial Catalyst",
+    "number": "10",
+    "elements": [
+      {
+        "text": "A member of the Pritzker family (famed Chicago-based philanthropists) once told me that she sees many peers either start a hedge fund or give money away. It’s much harder—and more rewarding—to create something new that can eventually sustain itself.",
+        "x": 110,
+        "y": 310,
+        "w": 1110,
+        "size": 40,
+        "leading": 47
+      },
+      {
+        "text": "[red]Think of your money as initial risk capital: the initial catalyst to bring something into existence.[/red]",
+        "x": 110,
+        "y": 650,
+        "w": 1120,
+        "size": 40,
+        "italic": true,
+        "leading": 47
+      },
+      {
+        "text": "You can back a new idea, institution, or creative project, help it reach sustainability, and then redirect your resources to the next thing you believe in.",
+        "x": 110,
+        "y": 775,
+        "w": 1120,
+        "size": 38,
+        "leading": 44,
+        "bottom": 890
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1218,
+          298,
+          390,
+          350
+        ],
+        "x": 1310,
+        "y": 360,
+        "w": 250,
+        "h": 350
+      }
+    ]
+  },
+  {
+    "id": "11-outside-tech",
+    "source": "11 - Vintage Editorial World Beyond Tech.png",
+    "title": "There’s a World Outside Tech",
+    "number": "11",
+    "elements": [
+      {
+        "text": "It’s common to reinvest in startups or become an LP in a fund. I joke that everyone who exits tech becomes a VC, a DJ, or both.",
+        "x": 110,
+        "y": 310,
+        "w": 1110,
+        "size": 40,
+        "leading": 47
+      },
+      {
+        "text": "There’s nothing wrong with that. But when you’ve spent years inside the same bubble, it’s easy to stay on the same wheel and forget that you can step off it. [red][i]There’s a much wider world out there.[/i][/red]",
+        "x": 110,
+        "y": 495,
+        "w": 1110,
+        "size": 40,
+        "leading": 47
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1290,
+          220,
+          285,
+          290
+        ],
+        "x": 1290,
+        "y": 300,
+        "w": 260,
+        "h": 280
+      },
+      {
+        "kind": "box",
+        "x": 110,
+        "y": 710,
+        "w": 1445,
+        "h": 155
+      },
+      {
+        "text": "My favorite example is a friend from tech who pursued his passion for film and became deeply involved in funding documentaries and independent film projects, serving on the boards of film institutions, and starting his own theater company.",
+        "x": 150,
+        "y": 750,
+        "w": 1360,
+        "size": 32,
+        "italic": true,
+        "leading": 38,
+        "bottom": 875
+      }
+    ]
+  },
+  {
+    "id": "12-generous-mischief",
+    "source": "12 - Generous Mischief_ Playful Acts of Kindness.png",
+    "title": "Generous Mischief",
+    "number": null,
+    "elements": [
+      {
+        "text": "[red]Simple, playful ways to create a little more magic in the world.[/red]",
+        "x": 110,
+        "y": 280,
+        "w": 1450,
+        "size": 36,
+        "italic": true
+      },
+      {
+        "kind": "rule",
+        "x1": 835,
+        "y1": 330,
+        "x2": 835,
+        "y2": 725
+      },
+      {
+        "text": "[b][i]Secretly pay for a stranger’s dinner.[/i][/b]",
+        "x": 110,
+        "y": 360,
+        "w": 665,
+        "size": 32
+      },
+      {
+        "text": "A favorite ritual, especially while traveling — quietly cover another table’s meal and slip out.",
+        "x": 110,
+        "y": 405,
+        "w": 665,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "kind": "rule",
+        "x1": 110,
+        "y1": 466,
+        "x2": 775,
+        "y2": 466
+      },
+      {
+        "text": "[b][i]Buy coffee for the people ahead of and behind you.[/i][/b]",
+        "x": 110,
+        "y": 510,
+        "w": 665,
+        "size": 32,
+        "leading": 36
+      },
+      {
+        "text": "A simple, joyful way to spread a little surprise.",
+        "x": 110,
+        "y": 594,
+        "w": 665,
+        "size": 28
+      },
+      {
+        "kind": "rule",
+        "x1": 110,
+        "y1": 622,
+        "x2": 775,
+        "y2": 622
+      },
+      {
+        "text": "[b][i]Organize the family reunion nobody is organizing.[/i][/b]",
+        "x": 110,
+        "y": 663,
+        "w": 665,
+        "size": 32,
+        "leading": 36
+      },
+      {
+        "text": "Bring the extended family together — cover flights, accommodations, and meals, and make it happen.",
+        "x": 110,
+        "y": 720,
+        "w": 665,
+        "size": 27,
+        "leading": 31
+      },
+      {
+        "text": "[b][i]Give away something you genuinely love.[/i][/b]",
+        "x": 890,
+        "y": 360,
+        "w": 665,
+        "size": 32
+      },
+      {
+        "text": "Not just things you’re getting rid of. Share favorite pieces — a clothing swap, a treasured book, a beloved object — so someone else can enjoy it.",
+        "x": 890,
+        "y": 405,
+        "w": 665,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "kind": "rule",
+        "x1": 890,
+        "y1": 510,
+        "x2": 1555,
+        "y2": 510
+      },
+      {
+        "text": "[b][i]Pay someone more than they asked.[/i][/b]",
+        "x": 890,
+        "y": 552,
+        "w": 665,
+        "size": 32
+      },
+      {
+        "text": "When someone quotes a modest price for their work and does a great job, surprise them by paying double.",
+        "x": 890,
+        "y": 596,
+        "w": 665,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "kind": "rule",
+        "x1": 890,
+        "y1": 667,
+        "x2": 1555,
+        "y2": 667
+      },
+      {
+        "text": "[b][i]Give spontaneous gifts.[/i][/b]",
+        "x": 890,
+        "y": 695,
+        "w": 665,
+        "size": 32
+      },
+      {
+        "text": "When you find something that reminds you of someone, buy it for them — no occasion needed.",
+        "x": 890,
+        "y": 735,
+        "w": 665,
+        "size": 27,
+        "leading": 31
+      },
+      {
+        "kind": "rule",
+        "x1": 110,
+        "y1": 780,
+        "x2": 1555,
+        "y2": 780
+      },
+      {
+        "text": "[red]“Money is coupons for having fun.”[/red]",
+        "x": 110,
+        "y": 813,
+        "w": 455,
+        "size": 27,
+        "italic": true,
+        "align": "center",
+        "bottom": 900
+      },
+      {
+        "text": "A former coworker of mine once said.",
+        "x": 110,
+        "y": 866,
+        "w": 455,
+        "size": 23,
+        "italic": true,
+        "align": "center",
+        "bottom": 905
+      },
+      {
+        "text": "Generosity is a practice, not a wealth threshold.",
+        "x": 607,
+        "y": 813,
+        "w": 455,
+        "size": 26,
+        "italic": true,
+        "align": "center",
+        "leading": 29,
+        "bottom": 900
+      },
+      {
+        "text": "You can do many of these things with almost no money.",
+        "x": 607,
+        "y": 878,
+        "w": 455,
+        "size": 20,
+        "italic": true,
+        "align": "center",
+        "bottom": 910
+      },
+      {
+        "text": "Generosity can be playful, surprising, and non-transactional.",
+        "x": 1104,
+        "y": 813,
+        "w": 455,
+        "size": 26,
+        "italic": true,
+        "align": "center",
+        "leading": 29,
+        "bottom": 900
+      },
+      {
+        "text": "It doesn’t always have to be formal philanthropy.",
+        "x": 1104,
+        "y": 878,
+        "w": 455,
+        "size": 21,
+        "italic": true,
+        "align": "center",
+        "bottom": 910
+      }
+    ]
+  },
+  {
+    "id": "13-spend-it",
+    "source": "13 - Spend or Create Something Good.png",
+    "title": "What If You Had to Spend It?",
+    "number": "13",
+    "elements": [
+      {
+        "text": "Instead of thinking you have to save it wisely, what if you thought of it as a portion you have to spend or utilize in some way?",
+        "x": 110,
+        "y": 315,
+        "w": 720,
+        "size": 39,
+        "leading": 46
+      },
+      {
+        "text": "It isn’t about reckless spending or buying things you don’t need. It’s about expanding what feels possible.",
+        "x": 110,
+        "y": 540,
+        "w": 720,
+        "size": 39,
+        "leading": 46
+      },
+      {
+        "text": "You don’t even have to spend the money—just running the exercise can reveal possibilities you haven’t considered.",
+        "x": 110,
+        "y": 730,
+        "w": 720,
+        "size": 39,
+        "leading": 46,
+        "bottom": 885
+      },
+      {
+        "kind": "box",
+        "x": 930,
+        "y": 305,
+        "w": 625,
+        "h": 490
+      },
+      {
+        "text": "What if you had to spend or utilize a set amount (for example, 100K) to improve your life or create something good in the world?",
+        "x": 980,
+        "y": 385,
+        "w": 525,
+        "size": 45,
+        "italic": true,
+        "align": "center",
+        "leading": 54
+      }
+    ]
+  },
+  {
+    "id": "14-unwritten-rules",
+    "source": "14-The Unwritten Rules of Wealth.png",
+    "title": "The Unwritten Rules of Wealth",
+    "number": "14",
+    "elements": [
+      {
+        "text": "There are many unspoken customs, social conventions, and ways of doing things that people who grew up with wealth inherently understand, but that people new to wealth may not.",
+        "x": 110,
+        "y": 310,
+        "w": 660,
+        "size": 39,
+        "leading": 46
+      },
+      {
+        "text": "[red]You don’t have to follow these rules, but it’s useful to learn a little about these elements of polite society.[/red]",
+        "x": 110,
+        "y": 670,
+        "w": 660,
+        "size": 38,
+        "italic": true,
+        "leading": 45
+      },
+      {
+        "kind": "rule",
+        "x1": 830,
+        "y1": 280,
+        "x2": 830,
+        "y2": 853
+      },
+      {
+        "text": "A FEW THINGS YOU MIGHT NOT KNOW:",
+        "x": 890,
+        "y": 300,
+        "w": 665,
+        "size": 25,
+        "tracking": 1.1
+      },
+      {
+        "text": "•  Did you know that making a substantial donation can open the door to joining the board of a museum? Major donors are sometimes invited to serve as trustees.",
+        "x": 890,
+        "y": 355,
+        "w": 665,
+        "size": 29,
+        "leading": 34
+      },
+      {
+        "text": "•  Wealthy people often build friendships and social networks through private members’ clubs, golf clubs, and country clubs.",
+        "x": 890,
+        "y": 505,
+        "w": 665,
+        "size": 29,
+        "leading": 34
+      },
+      {
+        "text": "•  Some prominent families have recognizable surnames and generations of social history. Traditions like debutante balls are part of elaborate social networks with their own customs and expectations.",
+        "x": 890,
+        "y": 630,
+        "w": 665,
+        "size": 29,
+        "leading": 34
+      },
+      {
+        "text": "•  Subtle language cues. In some wealthy circles, people ask, “What projects are you working on?” instead of “What do you do?”",
+        "x": 890,
+        "y": 795,
+        "w": 665,
+        "size": 29,
+        "leading": 34,
+        "bottom": 890
+      }
+    ]
+  },
+  {
+    "id": "15-money",
+    "source": "15 - Vintage Parchment Money Guide.png",
+    "title": "Talking About Money",
+    "number": "15",
+    "elements": [
+      {
+        "text": "We aren’t particularly practiced at talking openly about wealth, inequality, and the ways money changes relationships. It can be awkward, complicated, and deeply personal.",
+        "x": 110,
+        "y": 310,
+        "w": 660,
+        "size": 38,
+        "leading": 45
+      },
+      {
+        "kind": "rule",
+        "x1": 110,
+        "y1": 590,
+        "x2": 770,
+        "y2": 590
+      },
+      {
+        "text": "[red]Find people you trust enough to have honest conversations with.[/red]",
+        "x": 110,
+        "y": 650,
+        "w": 660,
+        "size": 38,
+        "italic": true,
+        "leading": 45
+      },
+      {
+        "kind": "rule",
+        "x1": 110,
+        "y1": 735,
+        "x2": 770,
+        "y2": 735
+      },
+      {
+        "text": "We need to be able to support each other, exchange ideas, ask questions, and learn from one another.",
+        "x": 110,
+        "y": 790,
+        "w": 660,
+        "size": 35,
+        "leading": 41,
+        "bottom": 890
+      },
+      {
+        "kind": "rule",
+        "x1": 830,
+        "y1": 280,
+        "x2": 830,
+        "y2": 865
+      },
+      {
+        "text": "I lean toward openness when people ask. I may not share exact numbers, but I’m happy to discuss my career decisions, how I came into wealth, and the systems that made it possible. Financial education matters, and talking about these things is how we learn. When a question feels too personal, sometimes I’ll simply ask, “What makes you ask?” or “What are you hoping to understand?”",
+        "x": 890,
+        "y": 295,
+        "w": 665,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "text": "How much you disclose, whether you give or lend money to friends and family, and how you navigate changing relationships are deeply personal choices. Some decisions are worth discussing with financial, legal, or tax professionals.",
+        "x": 890,
+        "y": 555,
+        "w": 665,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "text": "Money can change relationships in ways that feel difficult to reverse. Sometimes it feels like opening Pandora’s box, and that uncertainty is real.",
+        "x": 890,
+        "y": 730,
+        "w": 665,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "text": "[red]But beneath it all, remember that we’re all still just simply human.[/red]",
+        "x": 890,
+        "y": 840,
+        "w": 665,
+        "size": 28,
+        "italic": true,
+        "leading": 32,
+        "bottom": 900
+      }
+    ]
+  },
+  {
+    "id": "16-dreams",
+    "source": "16 Extraordinary Dreams in Engraving.png",
+    "title": "Realizing Extraordinary Dreams",
+    "number": "16",
+    "elements": [
+      {
+        "text": "You can wish into existence things the world has never seen before. Your dreams can be enormous, lasting, and real.",
+        "x": 110,
+        "y": 275,
+        "w": 1450,
+        "size": 30,
+        "italic": true,
+        "leading": 35
+      },
+      {
+        "kind": "art",
+        "crop": [
+          45,
+          195,
+          510,
+          238
+        ],
+        "x": 110,
+        "y": 325,
+        "w": 440,
+        "h": 175
+      },
+      {
+        "kind": "art",
+        "crop": [
+          595,
+          190,
+          480,
+          240
+        ],
+        "x": 615,
+        "y": 325,
+        "w": 440,
+        "h": 175
+      },
+      {
+        "kind": "art",
+        "crop": [
+          1117,
+          200,
+          511,
+          235
+        ],
+        "x": 1120,
+        "y": 325,
+        "w": 440,
+        "h": 175
+      },
+      {
+        "kind": "rule",
+        "x1": 580,
+        "y1": 325,
+        "x2": 580,
+        "y2": 745
+      },
+      {
+        "kind": "rule",
+        "x1": 1085,
+        "y1": 325,
+        "x2": 1085,
+        "y2": 745
+      },
+      {
+        "text": "[red]A WILDERNESS PROTECTED[/red]",
+        "x": 110,
+        "y": 537,
+        "w": 445,
+        "size": 25,
+        "bold": true
+      },
+      {
+        "text": "Doug Tompkins (founder of The North Face) bought and restored millions of acres of land in Patagonia, and then donated it to help establish national parks there.",
+        "x": 110,
+        "y": 582,
+        "w": 445,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "text": "[red]A FREE FESTIVAL[/red]",
+        "x": 615,
+        "y": 537,
+        "w": 445,
+        "size": 25,
+        "bold": true
+      },
+      {
+        "text": "Warren Hellman, an SF financier and amateur banjo player, started funding a free concert in Golden Gate Park in 2001, which became Hardly Strictly Bluegrass, which still is offered for free to the city every year.",
+        "x": 615,
+        "y": 582,
+        "w": 445,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "text": "[red]A LIGHT IN THE CITY[/red]",
+        "x": 1120,
+        "y": 537,
+        "w": 440,
+        "size": 25,
+        "bold": true
+      },
+      {
+        "text": "A few generous patrons helped fund the Bay Lights, a public light sculpture. It’s not one person’s project, but it’s a cool example of how a relatively small group of patrons can give an entire city an enormous artwork experienced by millions.",
+        "x": 1120,
+        "y": 582,
+        "w": 440,
+        "size": 28,
+        "leading": 32
+      },
+      {
+        "kind": "box",
+        "x": 110,
+        "y": 793,
+        "w": 1445,
+        "h": 91
+      },
+      {
+        "kind": "rule",
+        "x1": 365,
+        "y1": 805,
+        "x2": 365,
+        "y2": 872
+      },
+      {
+        "text": "[red]A NOTE ON DAFS[/red]",
+        "x": 130,
+        "y": 829,
+        "w": 215,
+        "size": 27,
+        "italic": true,
+        "align": "center",
+        "leading": 30,
+        "bottom": 900
+      },
+      {
+        "text": "A common piece of advice is to put money in a donor-advised fund (DAF). It’s tax-advantaged, and it will eventually go to charity. But when money simply sits in a DAF, nobody is actually benefiting from it. The U.S. currently has about [red][b]$400 billion[/b][/red] in DAFs that are not being utilized.",
+        "x": 395,
+        "y": 819,
+        "w": 1120,
+        "size": 24,
+        "italic": true,
+        "leading": 27,
+        "bottom": 900
+      }
+    ]
+  },
+  {
+    "id": "17-influence",
+    "source": "17 Orbits of Influence Field Guide.png",
+    "title": "Orbits of Influence",
+    "number": "17",
+    "elements": [
+      {
+        "text": "Your resources can make a difference at many scales: within your family, among friends, in your community, or across the world.",
+        "x": 110,
+        "y": 300,
+        "w": 735,
+        "size": 34,
+        "leading": 40
+      },
+      {
+        "text": "For example, a friend met a professor whose research he admired, and he decided to personally support the professor and his work in an ongoing way.",
+        "x": 110,
+        "y": 475,
+        "w": 735,
+        "size": 34,
+        "leading": 40
+      },
+      {
+        "text": "A dad I know gives his kids $2,000 to give to charity every year. But they aren’t just giving it away—each child has to make a presentation about why they chose the organization and spend their time volunteering to help out. I love this as a beautiful practice of giving in multiple ways, with both time and money.",
+        "x": 110,
+        "y": 635,
+        "w": 735,
+        "size": 30,
+        "leading": 34,
+        "bottom": 890
+      },
+      {
+        "kind": "art",
+        "crop": [
+          837,
+          65,
+          718,
+          715
+        ],
+        "x": 900,
+        "y": 270,
+        "w": 650,
+        "h": 520,
+        "clip": "M885 125 H1176 V65 H1210 V125 H1555 V780 H885 V462 H837 V398 H885 Z"
+      },
+      {
+        "text": "[red]Doing something deeply meaningful for one person can be an equally wonderful act of generosity as doing something for millions.[/red]",
+        "x": 110,
+        "y": 849,
+        "w": 1445,
+        "size": 30,
+        "italic": true,
+        "align": "center",
+        "leading": 35,
+        "bottom": 900
+      }
+    ],
+    "embedded_illustration_labels": [
+      "WORLD",
+      "COMMUNITY",
+      "FRIENDS",
+      "FAMILY"
+    ]
+  },
+  {
+    "id": "18-privilege",
+    "source": "18-Vintage Parchment Privilege Quote.png",
+    "title": null,
+    "number": null,
+    "elements": [
+      {
+        "text": "What if people think I’m privileged?",
+        "x": 150,
+        "y": 305,
+        "w": 1370,
+        "size": 49,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "Well, you are. You have received an enormous amount of privilege.",
+        "x": 140,
+        "y": 410,
+        "w": 1390,
+        "size": 43,
+        "align": "center"
+      },
+      {
+        "text": "[red]Do good with it.[/red] Be thoughtful and considerate and creative.",
+        "x": 140,
+        "y": 483,
+        "w": 1390,
+        "size": 43,
+        "italic": true,
+        "align": "center"
+      },
+      {
+        "text": "You have much power to shape the world around you and to invoke the changes you believe in.",
+        "x": 200,
+        "y": 565,
+        "w": 1270,
+        "size": 40,
+        "align": "center",
+        "leading": 49
+      },
+      {
+        "kind": "art",
+        "crop": [
+          706,
+          580,
+          250,
+          130
+        ],
+        "x": 715,
+        "y": 665,
+        "w": 240,
+        "h": 130
+      },
+      {
+        "text": "And thank the universe for this extraordinary strange fortune.",
+        "x": 150,
+        "y": 841,
+        "w": 1370,
+        "size": 33,
+        "italic": true,
+        "align": "center"
+      }
+    ]
+  },
+  {
+    "id": "19-beyond",
+    "source": "19-Beyond These Pages Guide.png",
+    "title": "Beyond These Pages",
+    "number": null,
+    "elements": [
+      {
+        "kind": "art",
+        "crop": [
+          1310,
+          30,
+          315,
+          145
+        ],
+        "x": 1310,
+        "y": 93,
+        "w": 245,
+        "h": 115
+      },
+      {
+        "text": "BOOKS",
+        "x": 110,
+        "y": 300,
+        "w": 660,
+        "size": 27,
+        "bold": true,
+        "tracking": 3
+      },
+      {
+        "text": "[i]Permission to Rest[/i] — Ashley Neese",
+        "x": 110,
+        "y": 360,
+        "w": 665,
+        "size": 34
+      },
+      {
+        "text": "[i]Four Thousand Weeks[/i] — Oliver Burkeman",
+        "x": 110,
+        "y": 418,
+        "w": 665,
+        "size": 34
+      },
+      {
+        "text": "[i]The Soul of Money[/i] — Lynne Twist",
+        "x": 110,
+        "y": 476,
+        "w": 665,
+        "size": 34
+      },
+      {
+        "text": "[i]Die With Zero[/i] — Bill Perkins",
+        "x": 110,
+        "y": 534,
+        "w": 665,
+        "size": 34
+      },
+      {
+        "text": "ARTICLES",
+        "x": 110,
+        "y": 637,
+        "w": 660,
+        "size": 27,
+        "bold": true,
+        "tracking": 3
+      },
+      {
+        "text": "[i]Sudden Wealth Syndrome[/i] — Bloomberg",
+        "x": 110,
+        "y": 695,
+        "w": 665,
+        "size": 29
+      },
+      {
+        "text": "How newfound wealth is affecting a new generation of tech exits.",
+        "x": 110,
+        "y": 733,
+        "w": 665,
+        "size": 25,
+        "italic": true,
+        "leading": 30
+      },
+      {
+        "text": "[i]Slow Philanthropy[/i] — Stanford Social Innovation Review",
+        "x": 110,
+        "y": 802,
+        "w": 665,
+        "size": 29,
+        "leading": 34,
+        "bottom": 890
+      },
+      {
+        "text": "A case for more thoughtful, long-term giving.",
+        "x": 110,
+        "y": 875,
+        "w": 665,
+        "size": 25,
+        "italic": true,
+        "bottom": 900
+      },
+      {
+        "kind": "rule",
+        "x1": 830,
+        "y1": 280,
+        "x2": 830,
+        "y2": 863
+      },
+      {
+        "text": "[red]Keep the Conversation Going[/red]",
+        "x": 890,
+        "y": 300,
+        "w": 665,
+        "size": 40,
+        "italic": true
+      },
+      {
+        "text": "Thank you for reading this field guide. Please share it with anyone who you think might find it useful.",
+        "x": 890,
+        "y": 390,
+        "w": 665,
+        "size": 36,
+        "leading": 43
+      },
+      {
+        "text": "Get in touch with me if you have questions, feedback, or anecdotes to share. I’m also open to speaking with people in person, leading group discussions, or collaborating on ideas around this meaningful topic.",
+        "x": 890,
+        "y": 565,
+        "w": 665,
+        "size": 34,
+        "leading": 40
+      },
+      {
+        "kind": "box",
+        "x": 890,
+        "y": 818,
+        "w": 385,
+        "h": 51
+      },
+      {
+        "kind": "box",
+        "x": 1300,
+        "y": 818,
+        "w": 255,
+        "h": 51
+      },
+      {
+        "text": "COPY GUIDE LINK",
+        "x": 910,
+        "y": 852,
+        "w": 345,
+        "size": 24,
+        "bold": true,
+        "align": "center"
+      },
+      {
+        "text": "CONTACT",
+        "x": 1320,
+        "y": 852,
+        "w": 215,
+        "size": 24,
+        "bold": true,
+        "align": "center"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#e9ddc9">
+  <meta name="description" content="A practical and personal guide to money, freedom, and a more expansive life.">
+  <meta name="robots" content="noindex, nofollow">
+  <title>A Field Guide for the Newly Rich</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <main id="slideshow" aria-label="A Field Guide for the Newly Rich">
+    <div id="slide-stage" aria-busy="true">
+      <img id="slide-image" width="1671" height="941" alt="" decoding="async" fetchpriority="high">
+      <p id="image-error" role="alert" hidden>This slide couldn’t load. <button id="retry-image" type="button">Try again</button></p>
+    </div>
+    <p id="slide-announcement" class="sr-only" aria-live="polite"></p>
+  </main>
+
+  <main id="feedback-page" hidden>
+    <section class="feedback-card" aria-labelledby="feedback-heading">
+      <p class="eyebrow">A FIELD GUIDE FOR THE NEWLY RICH</p>
+      <h1 id="feedback-heading">A note on these pages</h1>
+      <p class="intro">What would you change? Leave a note about a slide, its artwork, or the guide as a whole.</p>
+      <form id="feedback-form">
+        <label for="feedback-slide">Your note is about</label>
+        <select id="feedback-slide" name="slideId" required></select>
+        <label for="feedback-author">Your name <span class="optional">(optional)</span></label>
+        <input id="feedback-author" name="author" maxlength="80" autocomplete="name">
+        <label for="feedback-comment">Feedback</label>
+        <textarea id="feedback-comment" name="comment" rows="5" minlength="2" maxlength="4000" placeholder="Tell us what you’d like changed…" required></textarea>
+        <div class="trap" aria-hidden="true"><label for="feedback-website">Website</label><input id="feedback-website" name="website" tabindex="-1" autocomplete="off"></div>
+        <div class="form-bottom"><span id="save-hint">Your draft is kept in this browser.</span><button id="submit-feedback" type="submit">Submit feedback</button></div>
+        <p id="feedback-status" role="status" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer id="controls" aria-label="Slideshow controls">
+    <button id="previous" class="arrow" type="button" aria-label="Previous slide" title="Previous slide (left arrow)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7"/></svg></button>
+    <span id="page-count" aria-hidden="true"></span>
+    <button id="next" class="arrow" type="button" aria-label="Next slide" title="Next slide (right arrow)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 5 7 7-7 7"/></svg></button>
+    <a id="leave-feedback" href="/feedback" title="Leave feedback (F)">Leave feedback</a>
+  </footer>
+  <noscript><p class="no-script">Please enable JavaScript to view the slideshow.</p></noscript>
+</body>
+</html>
